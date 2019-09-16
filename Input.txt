@@ -1,0 +1,15 @@
+6,6
+The purpose of Howard.edu is to serve as a hub for everything Howard University. The website provides links
+that keeps current and prospective students, faculty and staff, Alumni, and parents updated and informed. 
+For students, the website provides a link to a page that gives information about upcoming deadlines, and links 
+to important websites that current students often visit. Faculty and staff also have a page it another set of links
+that are very similar to the current students page but they also provide instructions on how to perform professor related 
+task. It is also provided with a directory for different resources for support services. The home page is very aesthetically 
+pleasing. It’s mainly geared towards attracting prospective students and frequently visited from alumni. The first 
+three links provided are for donating, scheduling a tour of the school, and applying to the school. If scroll down 
+the page a little bit one will see a preview of what some of the faulty and students are currently working on with 
+links to a pop-up that will tell their story. After a look at some of the people at howard there is a section for general 
+news about the school with pictures and links to the full story. News is followed by currently and upcoming athletic events. 
+Then finally links and preview of some of Howard’s social media pages. This is this is great marketing. The website has 
+good functionality, sadly only the homepage is interactive it has pictures, videos and other dynamic elements that make the 
+home page visually appealing. Overall one might give the website a 9 out of 10. 

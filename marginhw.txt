@@ -1,0 +1,25 @@
+Assumptions:
+	- margins length are read in from the text file 
+ 	- 1 line = 80 characters
+ 	- left and right margin are equal positive integers
+ 	- output is 1 paragraph
+ 	- total margin length < line length
+
+Algorithm:
+
+ 	- declare line length
+ 	- declare margin length
+ 	- get file name
+ 	- open file (input)
+ 	- open output file ("DAT1.txt")
+ 	- get margin integers
+    - calculate remaining line length, given margins
+ 	- read in words from input file
+ 	- store words in list
+ 	- for words in list
+ 	- format the word 
+   	- add word to formatted string
+	- add formatted string to the full string 
+   	- subtract word length from line length
+   	- move runoff words to next line
+ 	- close both files
